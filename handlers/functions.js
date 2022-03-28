@@ -158,11 +158,11 @@ function GetUser(message, arg){
     }
     /**
      * @INFO
-     * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+     * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
      * @INFO
-     * Work for Milrato Development | https://milrato.eu
+     * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
      * @INFO
-     * Please mention him / Milrato Development, when using this Code!
+     * Please mention him / Deadshot X Development, when using this Code! 
      * @INFO
      */
     
@@ -414,11 +414,11 @@ async function edit_Roster_msg(client, guild, the_roster_db) {
         }
         /**
          * @INFO
-         * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+         * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
          * @INFO
-         * Work for Milrato Development | https://milrato.eu
+         * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
          * @INFO
-         * Please mention him / Milrato Development, when using this Code!
+         * Please mention him / Deadshot X Development, when using this Code! 
          * @INFO
          */
         
@@ -1390,11 +1390,11 @@ async function swap_pages(client, message, description, TITLE) {
 
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO
  */
 
@@ -1622,11 +1622,11 @@ function databasing(client, guildid, userid) {
       })
       /**
        * @INFO
-       * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+       * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
        * @INFO
-       * Work for Milrato Development | https://milrato.eu
+       * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
        * @INFO
-       * Please mention him / Milrato Development, when using this Code!
+       * Please mention him / Deadshot X Development, when using this Code! 
        * @INFO
        */
       client.social_log.ensure(guildid, {
@@ -2107,11 +2107,11 @@ function databasing(client, guildid, userid) {
 
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO
  */
 
@@ -2595,11 +2595,11 @@ async function create_transcript(message, client, msglimit) {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO
  */
 
@@ -2955,11 +2955,11 @@ const channelInfo = (url, options = {}) => __awaiter(void 0, void 0, void 0, fun
     }
     /**
      * @INFO
-     * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+     * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
      * @INFO
-     * Work for Milrato Development | https://milrato.eu
+     * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
      * @INFO
-     * Please mention him / Milrato Development, when using this Code!
+     * Please mention him / Deadshot X Development, when using this Code! 
      * @INFO
      */
     

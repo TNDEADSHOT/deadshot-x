@@ -59,8 +59,8 @@ module.exports = {
   * @INFO
   * Bot Coded by ᗪᕼᖇᑌᐯツ†ᶜˣ#8276 | https://discord.gg/CVRHqHV7yE
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
   * @INFO
-  * Please mention him / Milrato Development, when using this Code!
+  * Please mention him / Deadshot X Development, when using this Code! 
   * @INFO
 */

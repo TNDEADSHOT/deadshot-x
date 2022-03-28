@@ -94,7 +94,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Application Setup', 'https://cdn.discordapp.com/emojis/877653386747605032.png?size=96', 'https://discord.gg/milrato')
+          .setAuthor('Application Setup', 'https://cdn.discordapp.com/emojis/877653386747605032.png?size=96', 'https://dsc.gg/deadshotgaming')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         let used1 = false;
         //send the menu msg
@@ -310,7 +310,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor(SetupNumber + " Apply Setup", "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/incoming-envelope_1f4e8.png", "https://discord.gg/milrato")
+          .setAuthor(SetupNumber + " Apply Setup", "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/incoming-envelope_1f4e8.png", "https://dsc.gg/deadshotgaming")
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable4"]))
         //send the menu msg
         let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -3496,9 +3496,9 @@ module.exports = {
  * @INFO
  * Bot Coded by Tomato#6966 | https://github?.com/Tomato6966/Discord-Js-Handler-Template
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO
  */
 

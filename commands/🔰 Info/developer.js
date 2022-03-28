@@ -48,6 +48,6 @@ components: allbuttons
  * @INFO
  * Work for Milrato Development | crimexop.ml
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO
  */

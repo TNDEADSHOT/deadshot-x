@@ -79,7 +79,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://discord.gg/milrato')
+          .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://dsc.gg/deadshotgaming')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -234,7 +234,7 @@ module.exports = {
             //define the embed
             let MenuEmbed = new MessageEmbed()
               .setColor(es.color)
-              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://discord.gg/milrato')
+              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://dsc.gg/deadshotgaming')
               .setDescription("Select all Youtube Channels you want to remove!")
             //send the menu msg
             let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -296,7 +296,7 @@ module.exports = {
             //define the embed
             let MenuEmbed = new MessageEmbed()
               .setColor(es.color)
-              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://discord.gg/milrato')
+              .setAuthor('Youtube-Poster', 'https://cdn.discordapp.com/emojis/840260133686870036.png?size=128', 'https://dsc.gg/deadshotgaming')
               .setDescription("Select the Youtube Channel you want to edit!")
             //send the menu msg
             let menumsg = await message.reply({embeds: [MenuEmbed], components: [new MessageActionRow().addComponents(Selection)]})
@@ -390,11 +390,11 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO
  */
 

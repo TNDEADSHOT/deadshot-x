@@ -16,7 +16,7 @@ module.exports = {
     const { guild } = member;    
     try{
       let tempmsg = await interaction?.reply({embeds: [new Discord.MessageEmbed().setColor(es.color)
-      .setAuthor(client.la[ls].cmds.info.botinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://discord.gg/milrato")], ephemeral: true})
+      .setAuthor(client.la[ls].cmds.info.botinfo.loading, "https://cdn.discordapp.com/emojis/756773010123522058.gif", "https://dsc.gg/deadshotgaming")], ephemeral: true})
       cpuStat.usagePercent(function (e, percent, seconds) {
           if (e) {
               return console.log(e.stack ? String(e.stack).grey : String(e).grey);
@@ -54,10 +54,10 @@ module.exports = {
 };
 /**
   * @INFO
-  * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+  * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
   * @INFO
-  * Work for Milrato Development | https://milrato.eu
+  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
   * @INFO
-  * Please mention him / Milrato Development, when using this Code!
+  * Please mention him / Deadshot X Development, when using this Code! 
   * @INFO
 */

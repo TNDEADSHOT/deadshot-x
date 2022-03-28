@@ -68,7 +68,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Auto Support Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/envelope_2709-fe0f.png', 'https://discord.gg/milrato')
+          .setAuthor('Auto Support Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/envelope_2709-fe0f.png', 'https://dsc.gg/deadshotgaming')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
           
         //send the menu msg
@@ -162,7 +162,7 @@ module.exports = {
         //define the embed
         let MenuEmbed = new Discord.MessageEmbed()
           .setColor(es.color)
-          .setAuthor('Auto Support Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/question-mark_2753.png', 'https://discord.gg/milrato')
+          .setAuthor('Auto Support Setup', 'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/298/question-mark_2753.png', 'https://dsc.gg/deadshotgaming')
           .setDescription(eval(client.la[ls]["cmds"]["setup"]["setup-ticket"]["variable2"]))
         //send the menu msg
         let menumsg = await message.reply({
@@ -810,10 +810,10 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
  * @INFO
- * Work for Milrato Development | https://milrato.eu
+ * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
- * Please mention him / Milrato Development, when using this Code!
+ * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO
  */
