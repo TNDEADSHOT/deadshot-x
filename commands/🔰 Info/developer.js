@@ -27,7 +27,7 @@ module.exports = {
 				.setTimestamp()
 				.setThumbnail("https://media.discordapp.net/attachments/887988384335818782/891209413610852372/standard_1.gif")
 				.setTitle(client.la[ls].cmds.info.developer.title)
-				.setURL("crimexop.ml")
+				.setURL("Deadshot X Development")
 				.setDescription(client.la[ls].cmds.info.developer.description)],
 components: allbuttons
 			}).catch(error => console.log(error));
@@ -44,9 +44,9 @@ components: allbuttons
 }
 /**
  * @INFO
- * Bot Coded by TN DEADSHOT#8167 | https://discord.gg/CVRHqHV7yE
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
- * Work for Milrato Development | crimexop.ml
+ * Work for Deadshot X Development | Deadshot X Development
  * @INFO
  * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO

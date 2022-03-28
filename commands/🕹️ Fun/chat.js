@@ -53,9 +53,9 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by TN DEADSHOT#8167 | https://milrato.eue
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaminge
  * @INFO
- * Work for Milrato Development | https://dsc.gg/deadshotgaming
+ * Work for Deadshot X Development | https://dsc.gg/deadshotgaming
  * @INFO
  * Please mention him / Deadshot X Development, when using this Code! 
  * @INFO

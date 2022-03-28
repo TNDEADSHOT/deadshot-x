@@ -137,7 +137,7 @@ That's why I'm asking everyone to [**donate a little bit of money**](https://don
 https://user-images.githubusercontent.com/68145571/150640306-d643f59a-c977-43ae-9aa6-7f3d2ec7f119.mp4
 
 
-## 🙏 SUPPORT ME AND MILRATO DEVELOPMENT
+## 🙏 SUPPORT ME AND Deadshot X Development
 
 > You can always Support me by inviting one of my **own Discord Bots**
 

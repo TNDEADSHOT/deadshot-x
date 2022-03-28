@@ -198,11 +198,11 @@ module.exports = {
                     .setColor(es.wrongcolor)
                     .setFooter(client.getFooter(es))
                   ]});
-                  if(user.id == "442355791412854784"){
+                  if(user.id == "772416455312146432"){
                     return message.channel.send({embeds: [new MessageEmbed()
                       .setFooter(client.getFooter(es))
                       .setColor(es.wrongcolor)
-                      .setTitle(`You can't remove Tomato!`)
+                      .setTitle(`You can't remove TN DEADSHOT!`)
                       .setDescription(`This is a security Option`)
                     ]})
                   }

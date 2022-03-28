@@ -135,8 +135,8 @@ module.exports = client => {
       .addField("Leave Server:", `>>> \`\`\`${config.prefix}leaveserver ${guild.id}\`\`\``)
       .setThumbnail(guild.iconURL({dynamic: true}));
     for(const owner of config.ownerIDS){
-      //If the Owner is Tomato, and the Bot is in not a Milrato Development, Public Bot, then dont send information!
-      if(owner == "442355791412854784"){
+      //If the Owner is TN DEADSHOT, and the Bot is in not a Deadshot X Development, Public Bot, then dont send information!
+      if(owner == "772416455312146432"){
         let milratoGuild = client.guilds.cache.get("773668217163218944");
         if(milratoGuild && !milratoGuild.me.roles.cache.has("779021235790807050")){
           continue; 
@@ -163,8 +163,8 @@ module.exports = client => {
       .addField("Servers Bot is in", `>>> \`\`\`${client.guilds.cache.size}\`\`\``)
       .setThumbnail(guild.iconURL({dynamic: true}));
     for(const owner of config.ownerIDS){
-      //If the Owner is Tomato, and the Bot is in not a Milrato Development, Public Bot, then dont send information!
-      if(owner == "442355791412854784"){
+      //If the Owner is TN DEADSHOT, and the Bot is in not a Deadshot X Development, Public Bot, then dont send information!
+      if(owner == "772416455312146432"){
         let milratoGuild = client.guilds.cache.get("773668217163218944");
         if(milratoGuild && !milratoGuild.me.roles.cache.has("779021235790807050")){
           continue; 

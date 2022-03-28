@@ -590,7 +590,7 @@ but you can also do \`${prefix}setup-SYSTEM\` e.g. \`${prefix}setup-welcome\``)
 }
 /**
  * @INFO
- * Bot Coded by ᗪᕼᖇᑌᐯツ†ᶜˣ#8276 | https://discord.gg/CVRHqHV7yE
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
  * Work for CrimeX Development | https://CrimeX.eu
  * @INFO

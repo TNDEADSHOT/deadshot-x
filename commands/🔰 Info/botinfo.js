@@ -19,7 +19,7 @@ module.exports = {
     
     try{
       let tempmsg = await message.reply({embeds: [new Discord.MessageEmbed().setColor(es.color)
-      .setAuthor(client.la[ls].cmds.info.botinfo.loading, "https://cdn.discordapp.com/attachments/887988384335818782/888319115180257320/standard_3.gif", "https://discord.gg/CVRHqHV7yE")]})
+      .setAuthor(client.la[ls].cmds.info.botinfo.loading, "https://cdn.discordapp.com/attachments/887988384335818782/888319115180257320/standard_3.gif", "https://dsc.gg/deadshotgaming")]})
       cpuStat.usagePercent(function (e, percent, seconds) {
           if (e) {
               return console.log(e.stack ? String(e.stack).grey : String(e).grey);
@@ -57,7 +57,7 @@ module.exports = {
 };
 /**
   * @INFO
-  * Bot Coded by ᗪᕼᖇᑌᐯツ†ᶜˣ#8276 | https://discord.gg/CVRHqHV7yE
+  * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
   * @INFO
   * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
   * @INFO

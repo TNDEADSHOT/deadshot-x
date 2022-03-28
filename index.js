@@ -11,7 +11,7 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: TN DEADSHOT#8167 | https://milrato.eu
+ *   BOT CODED BY: TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  *********************************************************/
 
 
@@ -73,7 +73,7 @@ const client = new Discord.Client({
 
 
 /**********************************************************
- * @param {4} Create_the_client.memer property from Tomato's Api 
+ * @param {4} Create_the_client.memer property from TN DEADSHOT's Api 
  *********************************************************/
 client.memer = new Meme(process.env.memer_api || config.memer_api); // GET a TOKEN HERE: https://discord.gg/Mc2FudJkgP
 

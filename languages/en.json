@@ -16,7 +16,7 @@
                     {
                         "value": "Creator / Features",
                         "description": "Who is my Creator? / What are my Features?",
-                        "replymsg": "<:Milrato:840259659163893820> **__Milrato Development__ made me!**\n> <:Like:857334024087011378> **Their Website:** https://milrato.eu\n> <:Discord:787321652345438228> **Their Discord:** https://dsc.gg/deadshotgaming\n``` ```***__You can join their Discord Server and get yourself a Bot like me, for FREE/CHEAP!__***\n``` ```:muscle: **__My Features__**\n>>> **68+ Systems**, like: <:twitter:840255600851812393> **Twitter-** & <:Youtube:840260133686870036> **Youtube-Auto-Poster** \n**Application-**, Ticket-, **Welcome-Images-** and Reaction Role-, ... Systems\n:notes: An advanced <:Spotify:846090652231663647> **Music System** with **Audio Filtering**\n:video_game: Many **Minigames** and :joystick: **Fun** Commands (150+)\n:no_entry_sign: **Administration** and **Auto-Moderation** and way much more!\n\n**The Developer is: `TN DEADSHOT#8167` <:TOMATO:858450817665204224>, Contact him if you wanna hire him!**",
+                        "replymsg": "<:Milrato:840259659163893820> **__Deadshot X Development__ made me!**\n> <:Like:857334024087011378> **Their Website:** https://dsc.gg/deadshotgaming\n> <:Discord:787321652345438228> **Their Discord:** https://dsc.gg/deadshotgaming\n``` ```***__You can join their Discord Server and get yourself a Bot like me, for FREE/CHEAP!__***\n``` ```:muscle: **__My Features__**\n>>> **68+ Systems**, like: <:twitter:840255600851812393> **Twitter-** & <:Youtube:840260133686870036> **Youtube-Auto-Poster** \n**Application-**, Ticket-, **Welcome-Images-** and Reaction Role-, ... Systems\n:notes: An advanced <:Spotify:846090652231663647> **Music System** with **Audio Filtering**\n:video_game: Many **Minigames** and :joystick: **Fun** Commands (150+)\n:no_entry_sign: **Administration** and **Auto-Moderation** and way much more!\n\n**The Developer is: `TN DEADSHOT#8167` <:TN DEADSHOT:858450817665204224>, Contact him if you wanna hire him!**",
                         "emoji": "840259659163893820"
                     },
                     {
@@ -34,7 +34,7 @@
                     {
                         "value": "Sponsor / Support us",
                         "description": "Thanks for everything, you'll get something back!",
-                        "replymsg": "**__There are several Sponsor Options:__**\n\n> <:PAYPAL:861207258846330880> **Paypal:**\n> https://paypal.me/MilratoDevelopment\n\n> <:PATREON:861207934070816849> **Patreon:**\n> https://www.patreon.com/MilratoDevelopment?fan_landing=true\n\n> 💸 **Donate via Paysafe, Sofort or others: (1/2)**\n> https://bero-host.de/spenden/qgswlxrzgtll\n\n> 💸 **Donate via Paysafe, Sofort or others: (2/2)**\n> https://mc-host24.de/donate/tomato\n\n> **Every donator** gets the **@DONATOR Role** on:\n> https://dsc.gg/deadshotgaming\n\n\n> **Every Donator** with more then **10€** Gets a **Free Bot** of his **Choice*!",
+                        "replymsg": "**__There are several Sponsor Options:__**\n\n> <:PAYPAL:861207258846330880> **Paypal:**\n> https://paypal.me/MilratoDevelopment\n\n> <:PATREON:861207934070816849> **Patreon:**\n> https://www.patreon.com/MilratoDevelopment?fan_landing=true\n\n> 💸 **Donate via Paysafe, Sofort or others: (1/2)**\n> https://bero-host.de/spenden/qgswlxrzgtll\n\n> 💸 **Donate via Paysafe, Sofort or others: (2/2)**\n> https://mc-host24.de/donate/TN DEADSHOT\n\n> **Every donator** gets the **@DONATOR Role** on:\n> https://dsc.gg/deadshotgaming\n\n\n> **Every Donator** with more then **10€** Gets a **Free Bot** of his **Choice*!",
                         "emoji": "861207258846330880"
                     },
                     {
@@ -46,7 +46,7 @@
                     {
                         "value": "My Bot doesnt work",
                         "description": "If your Bot is not working do this:",
-                        "replymsg": "Contact us in Milrato Development <:Discord:787321652345438228> **Discord:** https://dsc.gg/deadshotgaming and open a Ticket in <#840332764603351101>\n\n***If it still responds with messages but doesn't work right, then you can try to do: `{prefix}reloadbot` / `{prefix}cmdreload [CMDNAME]`***\n\nMake sure that I have enough Permissions, as well as that the highest Role is high enough!",
+                        "replymsg": "Contact us in Deadshot X Development <:Discord:787321652345438228> **Discord:** https://dsc.gg/deadshotgaming and open a Ticket in <#840332764603351101>\n\n***If it still responds with messages but doesn't work right, then you can try to do: `{prefix}reloadbot` / `{prefix}cmdreload [CMDNAME]`***\n\nMake sure that I have enough Permissions, as well as that the highest Role is high enough!",
                         "emoji": "😓"
                     },
                     {
@@ -76,7 +76,7 @@
                 },
                 "field5": {
                     "title": "<:arrow:832598861813776394> Important Links",
-                    "value": "**[Invite Link]({invitelink})・[Support Server](https://dsc.gg/deadshotgaming)・[Website](https://milrato.eu)**\n**[Get Free Bots](https://dsc.gg/deadshotgaming)・[Invite Public Version](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
+                    "value": "**[Invite Link]({invitelink})・[Support Server](https://dsc.gg/deadshotgaming)・[Website](https://dsc.gg/deadshotgaming)**\n**[Get Free Bots](https://dsc.gg/deadshotgaming)・[Invite Public Version](https://discord.com/api/oauth2/authorize?client_id=734513783338434591&permissions=8&scope=bot)**"
                 },
                 "variable1": "`\\`\\`\\`yml\\nName: ${client.user.tag} [${client.user.id}]\\nBot Latency: ${Math.round(Date.now() - message.createdTimestamp)}ms\\nApi Latency: ${Math.round(client.ws.ping)}ms\\nRuntime: ${duration(client.uptime).join(\"︲\")}\\`\\`\\``",
                 "variable2": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -100,7 +100,7 @@
                     "botlist": "Public Bot-List-Website"
                 },
                 "title": "TN DEADSHOT#8167 | Dev of 4 Orgs | Developer of 1200+ BOTS",
-                "description": "<:arrow:832598861813776394> Hello I am **Tomato** <@442355791412854784> *(`TN DEADSHOT#8167`)*, and i made more then 1200 different Discord Bots: [My Bot List](https://botlist.milrato.eu)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**LAVA MUSIC** | `2021's Best Music Bot`](https://lava.milrato.eu) <@742672021422342165>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://dc.milrato)\n\n<:arrow:832598861813776394> I am also a **Website** Developer and **Plugin** dev. I made **Modules** like a **SPEECH Module** [SEE IT](https://cdn.discordapp.com/attachments/778714123785076768/801606374105546782/2021-01-21_01-15-50.mp4)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
+                "description": "<:arrow:832598861813776394> Hello I am **TN DEADSHOT** <@772416455312146432> *(`TN DEADSHOT#8167`)*, and i made more then 1200 different Discord Bots: [My Bot List](https://botlist.milrato.eu)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**LAVA MUSIC** | `2021's Best Music Bot`](https://lava.milrato.eu) <@742672021422342165>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://dc.milrato)\n\n<:arrow:832598861813776394> I am also a **Website** Developer and **Plugin** dev. I made **Modules** like a **SPEECH Module** [SEE IT](https://cdn.discordapp.com/attachments/778714123785076768/801606374105546782/2021-01-21_01-15-50.mp4)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
                 "variable1": "`\\`\\`\\`${String(e.stack).substr(0, 2000)}\\`\\`\\``"
             },
             "djmode": {
@@ -155,7 +155,7 @@
                     "botlist": "Public Bot-List-Website"
                 },
                 "title": "TN DEADSHOT#8167 | Dev of 4 Orgs | Developer of 1200+ BOTS",
-                "description": "<:arrow:832598861813776394> Hello I am **Tomato** <@442355791412854784> *(`TN DEADSHOT#8167`)*, and i made more then 1200 different Discord Bots: [My Bot List](https://botlist.milrato.eu)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**LAVA MUSIC** | `2021's Best Music Bot`](https://lava.milrato.eu) <@742672021422342165>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://dc.milrato)\n\n<:arrow:832598861813776394> I am also a **Website** Developer and **Plugin** dev. I made **Modules** like a **SPEECH Module** [SEE IT](https://cdn.discordapp.com/attachments/778714123785076768/801606374105546782/2021-01-21_01-15-50.mp4)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
+                "description": "<:arrow:832598861813776394> Hello I am **TN DEADSHOT** <@772416455312146432> *(`TN DEADSHOT#8167`)*, and i made more then 1200 different Discord Bots: [My Bot List](https://botlist.milrato.eu)\n\n<:arrow:832598861813776394> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**LAVA MUSIC** | `2021's Best Music Bot`](https://lava.milrato.eu) <@742672021422342165>\n\n<:arrow:832598861813776394> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://dc.milrato)\n\n<:arrow:832598861813776394> I am also a **Website** Developer and **Plugin** dev. I made **Modules** like a **SPEECH Module** [SEE IT](https://cdn.discordapp.com/attachments/778714123785076768/801606374105546782/2021-01-21_01-15-50.mp4)\n\n<:arrow:832598861813776394> Yeah i hope you like my stuff :v: <3",
                 "variable1": "`\\`\\`\\`${String(e.stack).substr(0, 2000)}\\`\\`\\``"
             },
             "help": {
@@ -208,7 +208,7 @@
                 "variable23": "\"🦾 Custom Commands\"",
                 "variable24": "`🦾 **Custom Commands [${cuc[0].includes(\"NO\") ? 0 : items.length}]**`",
                 "variable25": "\"<:Milrato:840259659163893820> Bot Creator Company Advertisment\"",
-                "variablex_26": "`<:Milrato:840259659163893820> **__Bot Creator Information__**`", "variable26": "`>>> 💯 This Bot has been made by:\\n[**Milrato Development**](https://milrato.eu)・[Discord](https://discord.com/invite/milrato)<:Discord:787321652345438228> [Click here to order yourself a own one](https://discord.com/invite/milrato)`",
+                "variablex_26": "`<:Milrato:840259659163893820> **__Bot Creator Information__**`", "variable26": "`>>> 💯 This Bot has been made by:\\n[**Deadshot X Development**](https://dsc.gg/deadshotgaming)・[Discord](https://discord.com/invite/milrato)<:Discord:787321652345438228> [Click here to order yourself a own one](https://discord.com/invite/milrato)`",
                 "variable27": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
             "invite": {
@@ -363,7 +363,7 @@
             },
             "support": {
                 "title": ":tickets: You need help? **JOIN OUR SUPPORT SERVER**",
-                "variable1": "`**[Invite Public Bot](https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot)  •  [WEBSITE](https://milrato.eu)  •  [Support Server/Get your Own Bot](https://discord.com/invite/milrato)**`",
+                "variable1": "`**[Invite Public Bot](https://discord.com/api/oauth2/authorize?client_id=784364932149280778&permissions=8&scope=bot)  •  [WEBSITE](https://dsc.gg/deadshotgaming)  •  [Support Server/Get your Own Bot](https://discord.com/invite/milrato)**`",
                 "variable2": "-",
                 "variable3": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
             },
@@ -1426,9 +1426,9 @@
                 "variable1": "`<:no:833101993668771842> You are not allowed to run this Command`",
                 "variable2": "`You need to be one of those guys: ${config.ownerIDS.map(id => `<@${id}>`)}`",
                 "variable3": "`<:no:833101993668771842> You didn't pinged to whom you want to pay`",
-                "variable4": "`Usage: \\`${prefix}addmoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}addmoney <@442355791412854784> 42069\\``",
+                "variable4": "`Usage: \\`${prefix}addmoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}addmoney <@772416455312146432> 42069\\``",
                 "variable5": "`<:no:833101993668771842> You didn't add the payamount`",
-                "variable6": "`Usage: \\`${prefix}addmoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}addmoney <@442355791412854784> 42069\\``",
+                "variable6": "`Usage: \\`${prefix}addmoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}addmoney <@772416455312146432> 42069\\``",
                 "variable7": "\"<:no:833101993668771842> **A Discord Bot can not have Economy!**\"",
                 "variable8": "`<:no:833101993668771842> You can't add a negative Amount of Money or no Money, to ${topay}`",
                 "variable9": "`<a:yes:833101995723194437> **You added \\`${payamount} 💸\\` to \\`${topay.tag}\\`**`",
@@ -1505,7 +1505,7 @@
             "detailedeval": {
                 "variable1": "`${emoji.msg.ERROR}  Error | You are not allowed to run this command! Only the **\\`TN DEADSHOT#8167\\`** is allowed to run this Cmd`",
                 "variable2": "`${emoji.msg.ERROR}  Error | You have to at least include one evaluation arguments`",
-                "variable3": "`Milrato Development | Evaluation`",
+                "variable3": "`Deadshot X Development | Evaluation`",
                 "variable4": "`\\`\\`\\`` + m + `\\`\\`\\``",
                 "variable5": "`${emoji.msg.ERROR}  ERROR | An error occurred!`",
                 "variable6": "`\\`\\`\\`${e.message}\\`\\`\\``"
@@ -1513,7 +1513,7 @@
             "eval": {
                 "variable1": "`${emoji.msg.ERROR}  Error | You are not allowed to run this command! Only the **\\`TN DEADSHOT#8167\\`** is allowed to run this Cmd`",
                 "variable2": "`${emoji.msg.ERROR}  Error | You have to at least include one evaluation arguments`",
-                "variable3": "`Milrato Development | Evaluation`",
+                "variable3": "`Deadshot X Development | Evaluation`",
                 "variable4": "`\\`\\`\\`` + splitDescription[0] + `\\`\\`\\``",
                 "variable5": "`${emoji.msg.ERROR}  ERROR | An error occurred!`",
                 "variable6": "`\\`\\`\\`${e.message}\\`\\`\\``"
@@ -1539,9 +1539,9 @@
                 "variable1": "`<:no:833101993668771842> You are not allowed to run this Command`",
                 "variable2": "`You need to be one of those guys: ${config.ownerIDS.map(id => `<@${id}>`)}`",
                 "variable3": "`<:no:833101993668771842> You didn't pinged to whom you want to pay`",
-                "variable4": "`Usage: \\`${prefix}removemoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}removemoney <@442355791412854784> 42069\\``",
+                "variable4": "`Usage: \\`${prefix}removemoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}removemoney <@772416455312146432> 42069\\``",
                 "variable5": "`<:no:833101993668771842> You didn't remove the payamount`",
-                "variable6": "`Usage: \\`${prefix}removemoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}removemoney <@442355791412854784> 42069\\``",
+                "variable6": "`Usage: \\`${prefix}removemoney <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}removemoney <@772416455312146432> 42069\\``",
                 "variable7": "\"<:no:833101993668771842> **A Discord Bot can not have Economy!**\"",
                 "variable8": "`<:no:833101993668771842> You can't remove a negative Amount of Money or no Money, to ${topay}`",
                 "variable9": "`<:no:833101993668771842> You can't remove more Money than you he has in his/her **👛 Pocket (\\`${data2.balance} 💸\\`)**`",
@@ -1559,7 +1559,7 @@
             },
             "restartbot": {
                 "variable1": "`<:no:833101993668771842> **You are not allowed to run this Command**`",
-                "variable2": "`***Only <@442355791412854784> is allowed to execute this Command, this is to prevent Rate Limits, if you need a Bot restart Contact him (\\`TN DEADSHOT#8167\\`)***`",
+                "variable2": "`***Only <@772416455312146432> is allowed to execute this Command, this is to prevent Rate Limits, if you need a Bot restart Contact him (\\`TN DEADSHOT#8167\\`)***`",
                 "variable3": "\"RESTARTING BOT .... please stand by... if the Bot is not restarting then DM: `TN DEADSHOT#8167`\"",
                 "variable4": "\"An error occurred, CONTACT THE OWNER PLEASE! `TN DEADSHOT#8167`\"",
                 "variable5": "\"RESTARTED SUCCESSFUL! PLEASE TEST THAT THE BOT WORKS (in 5-10 Seconds)!\"",
@@ -3358,9 +3358,9 @@
             },
             "pay": {
                 "variable1": "`<:no:833101993668771842> You didn't pinged to whom you want to pay`",
-                "variable2": "`Usage: \\`${prefix}pay <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}pay <@442355791412854784> 42069\\``",
+                "variable2": "`Usage: \\`${prefix}pay <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}pay <@772416455312146432> 42069\\``",
                 "variable3": "`<:no:833101993668771842> You didn't add the payamount`",
-                "variable4": "`Usage: \\`${prefix}pay <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}pay <@442355791412854784> 42069\\``",
+                "variable4": "`Usage: \\`${prefix}pay <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}pay <@772416455312146432> 42069\\``",
                 "variable5": "`<:no:833101993668771842> **You can't gamble 0 or less Money!**`",
                 "variable6": "\"<:no:833101993668771842> **A Discord Bot can not have Economy!**\"",
                 "variable7": "`<:no:833101993668771842> You can't pay a negative Amount of Money or no Money, to ${topay}`",
@@ -3425,9 +3425,9 @@
             },
             "transfer": {
                 "variable1": "`<:no:833101993668771842> You didn't pinged to whom you want to transfer`",
-                "variable2": "`Usage: \\`${prefix}transfer <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}transfer <@442355791412854784> 42069\\``",
+                "variable2": "`Usage: \\`${prefix}transfer <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}transfer <@772416455312146432> 42069\\``",
                 "variable3": "`<:no:833101993668771842> You didn't add the transferamount`",
-                "variable4": "`Usage: \\`${prefix}transfer <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}transfer <@442355791412854784> 42069\\``",
+                "variable4": "`Usage: \\`${prefix}transfer <@USER> <Amount>\\`\\n\\n\\Example: \\`${prefix}transfer <@772416455312146432> 42069\\``",
                 "variable5": "\"<:no:833101993668771842> **A Discord Bot can not have Economy!**\"",
                 "variable6": "`<:no:833101993668771842> You can't transfer a negative Amount of Money or no Money, to ${totransfer}`",
                 "variable7": "`<:no:833101993668771842> You can't transfer more Money than you have in your **👛 Pocket (\\`${data.balance} 💸\\`)**`",
@@ -4537,17 +4537,17 @@
                 "variable1": "`<:no:833101993668771842> You are not allowed to run this Command`",
                 "variable2": "`${adminroles.length > 0 ? \"You need one of those Roles: \" + adminroles.map(role => `<@&${role}>`).join(\" | \") + cmdrole.join(\"\")  : `No Admin Roles Setupped yet! Do it with: \\`${prefix}setup-admin\\``}`",
                 "variable3": "`<:no:833101993668771842> Please Include a MessageID`",
-                "variable4": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 442355791412854784 ${emoji.msg.SUCCESS}\\``",
+                "variable4": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 772416455312146432 ${emoji.msg.SUCCESS}\\``",
                 "variable5": "`<:no:833101993668771842> Please Include a Valid MessageID`",
                 "variable6": "`<:no:833101993668771842> Please Include a Emoji`",
-                "variable7": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 442355791412854784 ${emoji.msg.SUCCESS}\\``",
+                "variable7": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 772416455312146432 ${emoji.msg.SUCCESS}\\``",
                 "variable8": "`<:no:833101993668771842> Please Include a valid Emoji`",
-                "variable9": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 442355791412854784 ${emoji.msg.SUCCESS}\\``",
+                "variable9": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 772416455312146432 ${emoji.msg.SUCCESS}\\``",
                 "variable10": "`\\`\\`\\`${String(message.content).substr(0, 2000)}\\`\\`\\``",
                 "variable11": "`Executed in: `, `<#${message.channel.id}> \\`${message.channel.name}\\``",
                 "variable12": "`Executed by: `, `<@${message.author.id}> (${message.author.tag})\\n\\`${message.author.tag}\\``",
                 "variable13": "`<:no:833101993668771842> Please Include a valid Emoji`",
-                "variable14": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 442355791412854784 ${emoji.msg.SUCCESS}\\``",
+                "variable14": "`Usage: \\`${prefix}react <msgid> <Emoji>\\`\\nExample: \\`${prefix}react 772416455312146432 ${emoji.msg.SUCCESS}\\``",
                 "variable15": "`\\`\\`\\`${e.stack}\\`\\`\\``",
                 "variable16": "`<:no:833101993668771842> An error occurred!`",
                 "variable17": "`\\`\\`\\` ${e.message ? e.message : e.stack ? String(e.stack).substr(0, 2000) : String(e).substr(0, 2000)}\\`\\`\\``"
@@ -4828,7 +4828,7 @@
         "cooldown": "<:no:833101993668771842> Please wait {time} more second(s) before reusing the `{commandname}` command.",
         "premium": {
             "title": "<:no:833101993668771842> **This Command is Premium Only!** <a:nitro:833402717506502707>",
-            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website](https://milrato.eu) - [Pay through here](https://dsc.gg/deadshotgaming)"
+            "description": "> *This means, you need to **pay** in Order to be able to use this Command!*\n\n> [Website](https://dsc.gg/deadshotgaming) - [Pay through here](https://dsc.gg/deadshotgaming)"
         },
         "permissions": {
             "title": "<:no:833101993668771842> **You are not allowed to run this command!**",

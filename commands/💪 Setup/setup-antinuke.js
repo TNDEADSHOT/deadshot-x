@@ -19,9 +19,9 @@ module.exports = {
   type: "security",
   run: async (client, message, args, cmduser, text, prefix) => {
     let es = client.settings.get(message.guild.id, "embed");let ls = client.settings.get(message.guild.id, "language");
-    //only allow the Server owner, (&Tomato) to execute this Command, (Tomato just because if he needs to help for Shop Bots)
+    //only allow the Server owner, (&TN DEADSHOT) to execute this Command, (TN DEADSHOT just because if he needs to help for Shop Bots)
     if(message.author.id != message.guild.ownerId){
-      if(message.author.id != "442355791412854784")
+      if(message.author.id != "772416455312146432")
         return message.reply({content: eval(client.la[ls]["cmds"]["setup"]["setup-antinuke"]["variable1"])})
     }
     
@@ -1533,7 +1533,7 @@ module.exports = {
               return menu?.reply({content: eval(client.la[ls]["cmds"]["setup"]["setup-antinuke"]["variable93"])})
             }
             menu?.reply({content: eval(client.la[ls]["cmds"]["setup"]["setup-antinuke"]["variable94"])})
-            for(const ch of channels.map(this_Code_is_by_Tomato_6966 => this_Code_is_by_Tomato_6966)){
+            for(const ch of channels.map(this_Code_is_by_TN_DEADSHOT_8167 => this_Code_is_by_TN_DEADSHOT_8167)){
               try {
                 if(ch) {
                   if(ch.permissionsFor(ch.guild.me).has(Permissions.FLAGS.MANAGE_CHANNELS)){

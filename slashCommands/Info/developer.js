@@ -23,9 +23,9 @@ module.exports = {
 				.setColor(es.color)
 				.setFooter(client.getFooter(es))
 				.setTimestamp()
-				.setThumbnail("https://cdn.discordapp.com/avatars/442355791412854784/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
+				.setThumbnail("https://cdn.discordapp.com/avatars/772416455312146432/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
 				.setTitle(client.la[ls].cmds.info.developer.title)
-				.setURL("https://milrato.eu")
+				.setURL("https://dsc.gg/deadshotgaming")
 				.setDescription(client.la[ls].cmds.info.developer.description)],
 components: allbuttons
 			}).catch(error => console.log(error));
