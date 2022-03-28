@@ -453,7 +453,7 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://github?.com/MilratoDev/discord-js-lavalink-Music-Bot-erela-js
+ * Bot Coded by TN DEADSHOT#8167 | https://github?.com/MilratoDev/discord-js-lavalink-Music-Bot-erela-js
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO

@@ -158,7 +158,7 @@ function GetUser(message, arg){
     }
     /**
      * @INFO
-     * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+     * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
      * @INFO
      * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
      * @INFO
@@ -414,7 +414,7 @@ async function edit_Roster_msg(client, guild, the_roster_db) {
         }
         /**
          * @INFO
-         * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+         * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
          * @INFO
          * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
          * @INFO
@@ -1390,7 +1390,7 @@ async function swap_pages(client, message, description, TITLE) {
 
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
@@ -1622,7 +1622,7 @@ function databasing(client, guildid, userid) {
       })
       /**
        * @INFO
-       * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+       * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
        * @INFO
        * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
        * @INFO
@@ -2107,7 +2107,7 @@ function databasing(client, guildid, userid) {
 
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
@@ -2595,7 +2595,7 @@ async function create_transcript(message, client, msglimit) {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
@@ -2955,7 +2955,7 @@ const channelInfo = (url, options = {}) => __awaiter(void 0, void 0, void 0, fun
     }
     /**
      * @INFO
-     * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+     * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
      * @INFO
      * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
      * @INFO

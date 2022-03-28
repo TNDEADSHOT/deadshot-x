@@ -11,7 +11,7 @@
  * 8  LOAD_the_BOT_Functions
  * 9  Login_to_the_Bot
  * 
- *   BOT CODED BY: TOMato6966 | https://milrato.eu
+ *   BOT CODED BY: TN DEADSHOT#8167 | https://milrato.eu
  *********************************************************/
 
 
@@ -150,7 +150,7 @@ client.login(process.env.TOKEN);
 
 /**********************************************************
  * @INFO
- * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO

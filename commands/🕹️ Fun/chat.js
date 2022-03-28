@@ -53,7 +53,7 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://milrato.eue
+ * Bot Coded by TN DEADSHOT#8167 | https://milrato.eue
  * @INFO
  * Work for Milrato Development | https://dsc.gg/deadshotgaming
  * @INFO

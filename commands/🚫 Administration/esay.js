@@ -100,7 +100,7 @@ module.exports = {
 }
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://github?.com/Tomato6966/Discord-Js-Handler-Template
+ * Bot Coded by TN DEADSHOT#8167 | https://github?.com/TN DEADSHOT#8167/Discord-Js-Handler-Template
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO

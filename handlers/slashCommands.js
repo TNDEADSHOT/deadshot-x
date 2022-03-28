@@ -157,7 +157,7 @@ module.exports = (client) => {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO

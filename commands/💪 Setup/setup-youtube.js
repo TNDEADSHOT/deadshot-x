@@ -169,7 +169,7 @@ module.exports = {
               var msg = collected.first();
               if(msg && msg.content ){
                 if((msg.content.length > 0 && msg.content.length < 50) &&!msg.content.toLowerCase().includes("youtube") && (!msg.content.toLowerCase().includes("channel") || !msg.content.toLowerCase().includes("c")))
-                  return message.reply("YOU DID NOT SEND A VALID YOUTUBE CHANNEL\nNote, such links doesn't work: `https://youtube.com/Tomato6966` / `https://youtube.com/c/Tomato6966`\nIt must be something like this: `https://www.youtube.com/channel/UC1AgotpFHNhzolUtAjPgZqQ`")
+                  return message.reply("YOU DID NOT SEND A VALID YOUTUBE CHANNEL\nNote, such links doesn't work: `https://youtube.com/TN DEADSHOT#8167` / `https://youtube.com/c/TN DEADSHOT#8167`\nIt must be something like this: `https://www.youtube.com/channel/UC1AgotpFHNhzolUtAjPgZqQ`")
                 if(client.social_log.get(message.guild.id, "youtube.channels").includes(msg.content))
                   return message.reply({embeds: [new Discord.MessageEmbed()
                     .setTitle(eval(client.la[ls]["cmds"]["setup"]["setup-youtube"]["variable11"]))
@@ -390,7 +390,7 @@ module.exports = {
 };
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://dsc.gg/deadshotgaming
+ * Bot Coded by TN DEADSHOT#8167 | https://dsc.gg/deadshotgaming
  * @INFO
  * Work for Deadshot X Development | https://dsc.gg/deadshotgaming 
  * @INFO
